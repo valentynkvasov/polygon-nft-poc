@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Prerequirements 
 1. Install Ganache & Run Quickstart
 2. Create the infura IPFS project
-3. Point out the IPFS_PROJECT_ID & IPFS_SECRET_KEY in createm-item.js file
+3. Point out the IPFS_PROJECT_ID & IPFS_SECRET_KEY in create-item.js file
 4. npm install
 5. truffle compile
 5.1 truffle migrate
