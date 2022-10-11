@@ -6,8 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 3. Point out the IPFS_PROJECT_ID & IPFS_SECRET_KEY in create-item.js file
 4. npm install
 5. truffle compile
-5.1 truffle migrate
-6. Copy smart contract address and set nftaddress && nftmarketaddress in .\config.js
+6. truffle migrate
+7. Copy smart contract address and set nftaddress && nftmarketaddress in .\config.js
 
 ## Getting Started
 
