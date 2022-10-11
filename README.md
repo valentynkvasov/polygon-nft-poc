@@ -1,13 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Prerequirements 
+1. Install Ganache & Run Quickstart
+2. Create the infura IPFS project
+3. Point out the IPFS_PROJECT_ID & IPFS_SECRET_KEY in createm-item.js file
+4. npm install
+5. truffle compile
+5.1 truffle migrate
+6. Copy smart contract address and set nftaddress && nftmarketaddress in .\config.js
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm run build
 npm run dev
-
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

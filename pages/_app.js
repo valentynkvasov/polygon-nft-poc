@@ -1,7 +1,6 @@
 import '../styles/globals.css'
 
 import Link from 'next/link'
-require('dotenv').config()
 
 function Marketplace({ Component, pageProps }) {
   return (

@@ -4,8 +4,8 @@ import { create as IPFS } from 'ipfs-http-client'
 import { useRouter } from 'next/router'
 import Web3Modal from 'web3modal'
 
-const IPFS_PROJECT_ID = ""
-const IPFS_SECRET_KEY = ""
+const IPFS_PROJECT_ID = "2EUTAUFaNP9H5rPha7VENq9wWgw"
+const IPFS_SECRET_KEY = "53b36ef88b1333630e2edb1b593b3401"
 
 const client = new IPFS({ 
   host: 'infura-ipfs.io', 
